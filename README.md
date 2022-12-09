@@ -1,6 +1,6 @@
-# Base layout template with Gulp, SCSS and Stylelint
+# MyBike landing
 
-  Technologies used: HTML5/CSS3/Sass
+Technologies used: HTML5/CSS3/Sass
   
 The page is adapted for different devices.
 
